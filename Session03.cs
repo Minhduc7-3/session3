@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _31231025891_NGUYEN_THI_NGOC_BICH
+namespace
 {
     internal class Session03
     {
